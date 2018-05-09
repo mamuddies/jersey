@@ -1,5 +1,3 @@
 https://github.com/eugenp/tutorials/tree/master/spring-jersey
 testing testing ste--------------
 test--1
-
-test2--1
